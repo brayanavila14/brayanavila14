@@ -54,7 +54,7 @@ Mi espacio personal optimizado para rendimiento y SEO.
 
 <p align="left">
   <a href="https://brayanaviladev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-braydev.xyz-blue?style=flat-square&logo=google-chrome" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-braydev-blue?style=flat-square&logo=google-chrome" alt="Website" />
   </a>
   <a href="https://ko-fi.com/braydev" target="_blank">
     <img src="https://img.shields.io/badge/Ko--fi-Invítame%20un%20café-FF5E5B?style=flat-square&logo=ko-fi" alt="Ko-fi" />
