@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/brayanavila14/brayanavila14/blob/main/edited-image.jpg?raw=true" alt="BrayDev Logo" width="100%">
+  <img src="https://github.com/brayanavila14/brayanavila14/blob/main/logo.png?raw=true" alt="BrayDev Logo" width="100%">
 </div>
 
 <h1 align="center">¡Hola, soy Brayan Avila! 👋</h1>
