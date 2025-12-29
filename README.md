@@ -44,7 +44,7 @@ Un chatbot diseñado para acompañamiento, integrando lógica compleja de datos.
 * **Stack:** Next.js + n8n + Gemini API + Supabase.
 * **Reto:** Orquestación de flujos de conversación naturales y memoria a largo plazo.
 
-#### 🌐 [BrayDev Portfolio](https://braydev.xyz)
+#### 🌐 [BrayDev Portfolio](https://brayanaviladev.vercel.app/)
 Mi espacio personal optimizado para rendimiento y SEO.
 * **Stack:** Astro + Tailwind CSS.
 
@@ -53,7 +53,7 @@ Mi espacio personal optimizado para rendimiento y SEO.
 ### 📫 Conectemos
 
 <p align="left">
-  <a href="https://braydev.xyz" target="_blank">
+  <a href="https://brayanaviladev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-braydev.xyz-blue?style=flat-square&logo=google-chrome" alt="Website" />
   </a>
   <a href="https://ko-fi.com/braydev" target="_blank">
