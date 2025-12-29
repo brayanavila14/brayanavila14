@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/brayanavila14/brayanavila14/blob/main/logo.png?raw=true" alt="BrayDev Logo" width="100%">
+  <img src="https://github.com/brayanavila14/brayanavila14/blob/main/img/logo.png?raw=true" alt="BrayDev Logo" width="100%">
 </div>
 
 <h1 align="center">¡Hola, soy Brayan Avila! 👋</h1>
@@ -54,7 +54,7 @@ Mi espacio personal optimizado para rendimiento y SEO.
 
 <p align="left">
   <a href="https://brayanaviladev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-braydev.xyz-blue?style=flat-square&logo=google-chrome" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-braydev-blue?style=flat-square&logo=google-chrome" alt="Website" />
   </a>
   <a href="https://ko-fi.com/braydev" target="_blank">
     <img src="https://img.shields.io/badge/Ko--fi-Invítame%20un%20café-FF5E5B?style=flat-square&logo=ko-fi" alt="Ko-fi" />
